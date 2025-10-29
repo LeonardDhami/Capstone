@@ -1,0 +1,51 @@
+#header{
+    height: 100vh;
+    background-color: #b30000;
+}
+.header-img{
+    background-color: #c40c0c;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.header-text{
+    color: white;
+}
+#head1{
+    font-family: 'Times New Roman', Times, serif;
+}
+#head2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+border: 2px solid #b30000;
+    border-radius: 50%;
+  border-radius: 10%;
+    float: left;
+    
+}
+#aboutme{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+#myskills{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#footer{
+    background-color: #b30000;
+}
+.polis{
+    display: flex;
+    float: left;
+}
+.eafc{
+    display: flex;
+    float: left;
+}
